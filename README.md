@@ -1,6 +1,6 @@
 # tech
 
-Inhoudsopgave
+## Inhoudsopgave
 
 - Een
 - Twee
