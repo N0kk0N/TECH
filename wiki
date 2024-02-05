@@ -1,3 +1,10 @@
 05-02-2024
 
 -Repository aangemaakt
+
+Gebruik van (Git)Hub:
+- Het bijhouden van verschillende versies van documenten.
+- Het delen van code met elkaar en elkaar ondersteunen waar nodig.
+
+Mijn strategie:
+- Elke dag een paar keer noteren wat ik heb gedaan op die dag met behulp van lijstjes.
