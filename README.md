@@ -2,10 +2,12 @@
 
 ## Samenvatting
 
-## Table of contents
-1. Een
-2. Twee
-3. Drie
+## Table of Contents
+1. Handleiding
+2. Libraries
+3. Contributors
+4. Versions
+5. License
 
 ## Handleiding opzetten
 
