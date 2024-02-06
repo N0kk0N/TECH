@@ -3,11 +3,11 @@
 ## Samenvatting
 
 ## Table of Contents
-1. Handleiding
-2. Libraries
-3. Contributors
-4. Versions
-5. License
+1. [Handleiding](#handleiding)
+2. [Libraries](#libraries)
+3. [Contributors](#contributors)
+4. [Versions](#versions)
+5. [License](#license)
 
 ## Handleiding opzetten
 
