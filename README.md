@@ -13,7 +13,7 @@
 
 ## Libraries
 
-## Contributers
+## Contributors
 
 ## Versions
 
